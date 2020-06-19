@@ -19,6 +19,7 @@
 		18C43DE9249C852F0054830F /* lcy02.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43DE8249C852F0054830F /* lcy02.m */; };
 		18C43DEF249C88640054830F /* master01.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43DEE249C88640054830F /* master01.m */; };
 		18C43DF2249C89710054830F /* lcyaaa222222.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43DF1249C89710054830F /* lcyaaa222222.m */; };
+		18C43DF5249C8C060054830F /* master02.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43DF4249C8C060054830F /* master02.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,8 @@
 		18C43DEE249C88640054830F /* master01.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = master01.m; sourceTree = "<group>"; };
 		18C43DF0249C89710054830F /* lcyaaa222222.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lcyaaa222222.h; sourceTree = "<group>"; };
 		18C43DF1249C89710054830F /* lcyaaa222222.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lcyaaa222222.m; sourceTree = "<group>"; };
+		18C43DF3249C8C060054830F /* master02.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = master02.h; sourceTree = "<group>"; };
+		18C43DF4249C8C060054830F /* master02.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = master02.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +126,8 @@
 				18C43DE8249C852F0054830F /* lcy02.m */,
 				18C43DED249C88640054830F /* master01.h */,
 				18C43DEE249C88640054830F /* master01.m */,
+				18C43DF3249C8C060054830F /* master02.h */,
+				18C43DF4249C8C060054830F /* master02.m */,
 				18C43DF0249C89710054830F /* lcyaaa222222.h */,
 				18C43DF1249C89710054830F /* lcyaaa222222.m */,
 				18C43DBB249C84E90054830F /* Main.storyboard */,
@@ -285,6 +290,7 @@
 				18C43DBA249C84E90054830F /* ViewController.m in Sources */,
 				18C43DB4249C84E90054830F /* AppDelegate.m in Sources */,
 				18C43DEF249C88640054830F /* master01.m in Sources */,
+				18C43DF5249C8C060054830F /* master02.m in Sources */,
 				18C43DC5249C84EA0054830F /* main.m in Sources */,
 				18C43DB7249C84E90054830F /* SceneDelegate.m in Sources */,
 				18C43DE9249C852F0054830F /* lcy02.m in Sources */,
