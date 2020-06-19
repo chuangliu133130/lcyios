@@ -23,6 +23,7 @@
 		18C43DF8249C8CCE0054830F /* lcy666.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43DF7249C8CCE0054830F /* lcy666.m */; };
 		18C43DFB249C8D860054830F /* master6666.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43DFA249C8D860054830F /* master6666.m */; };
 		18C43DFE249C8E5D0054830F /* lcy888.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43DFD249C8E5D0054830F /* lcy888.m */; };
+		18C43E01249C8EF30054830F /* lcy999.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43E00249C8EF30054830F /* lcy999.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,8 @@
 		18C43DFA249C8D860054830F /* master6666.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = master6666.m; sourceTree = "<group>"; };
 		18C43DFC249C8E5D0054830F /* lcy888.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lcy888.h; sourceTree = "<group>"; };
 		18C43DFD249C8E5D0054830F /* lcy888.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lcy888.m; sourceTree = "<group>"; };
+		18C43DFF249C8EF30054830F /* lcy999.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lcy999.h; sourceTree = "<group>"; };
+		18C43E00249C8EF30054830F /* lcy999.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lcy999.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +142,8 @@
 				18C43DF7249C8CCE0054830F /* lcy666.m */,
 				18C43DF9249C8D860054830F /* master6666.h */,
 				18C43DFA249C8D860054830F /* master6666.m */,
+				18C43DFF249C8EF30054830F /* lcy999.h */,
+				18C43E00249C8EF30054830F /* lcy999.m */,
 				18C43DFC249C8E5D0054830F /* lcy888.h */,
 				18C43DFD249C8E5D0054830F /* lcy888.m */,
 				18C43DF3249C8C060054830F /* master02.h */,
@@ -312,6 +317,7 @@
 				18C43DE9249C852F0054830F /* lcy02.m in Sources */,
 				18C43DF8249C8CCE0054830F /* lcy666.m in Sources */,
 				18C43DFE249C8E5D0054830F /* lcy888.m in Sources */,
+				18C43E01249C8EF30054830F /* lcy999.m in Sources */,
 				18C43DF2249C89710054830F /* lcyaaa222222.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
