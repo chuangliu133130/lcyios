@@ -24,6 +24,7 @@
 		18C43DFB249C8D860054830F /* master6666.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43DFA249C8D860054830F /* master6666.m */; };
 		18C43DFE249C8E5D0054830F /* lcy888.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43DFD249C8E5D0054830F /* lcy888.m */; };
 		18C43E01249C8EF30054830F /* lcy999.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43E00249C8EF30054830F /* lcy999.m */; };
+		18C43E04249C8FB10054830F /* lcylove.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C43E03249C8FB10054830F /* lcylove.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,6 +79,8 @@
 		18C43DFD249C8E5D0054830F /* lcy888.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lcy888.m; sourceTree = "<group>"; };
 		18C43DFF249C8EF30054830F /* lcy999.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lcy999.h; sourceTree = "<group>"; };
 		18C43E00249C8EF30054830F /* lcy999.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lcy999.m; sourceTree = "<group>"; };
+		18C43E02249C8FB10054830F /* lcylove.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lcylove.h; sourceTree = "<group>"; };
+		18C43E03249C8FB10054830F /* lcylove.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lcylove.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +111,8 @@
 		18C43DA6249C84E90054830F = {
 			isa = PBXGroup;
 			children = (
+				18C43E02249C8FB10054830F /* lcylove.h */,
+				18C43E03249C8FB10054830F /* lcylove.m */,
 				18C43DB1249C84E90054830F /* lcy0000qq */,
 				18C43DCD249C84EA0054830F /* lcy0000qqTests */,
 				18C43DD8249C84EA0054830F /* lcy0000qqUITests */,
@@ -319,6 +324,7 @@
 				18C43DFE249C8E5D0054830F /* lcy888.m in Sources */,
 				18C43E01249C8EF30054830F /* lcy999.m in Sources */,
 				18C43DF2249C89710054830F /* lcyaaa222222.m in Sources */,
+				18C43E04249C8FB10054830F /* lcylove.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
